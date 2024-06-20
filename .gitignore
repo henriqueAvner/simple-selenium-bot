@@ -1,0 +1,23 @@
+# Ignore bin and obj folders
+bin/
+obj/
+
+# Ignore build output folders
+[Bb]uild/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+
+# Ignore user-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore Rider settings
+.idea/
